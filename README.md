@@ -12,4 +12,15 @@
 1. No menu <>Code, escolha a opção "Abrir com GitHub Desktop";<br>
 2. Escolha a opção de editor "Android Studio";<br>
 3. Realize as importações de bibliotecas e sincronizações solicitadas pela IDE;<br>
+
+### Colaboradores:
+Adriana de Andrade
+Adriano Becco Nunes
+Anderson Trajano de Souza
+Andrielyssa Reis Santos
+Attila Lima Guerrera
+Bruno Gomes Lima
+Camila Forlin Cavalcanti
+Carolina Alves Branquinho
+
   
