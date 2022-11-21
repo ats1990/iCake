@@ -13,14 +13,15 @@
 2. Escolha a opção de editor "Android Studio";<br>
 3. Realize as importações de bibliotecas e sincronizações solicitadas pela IDE;<br>
 
+
 ### Colaboradores:
-Adriana de Andrade
-Adriano Becco Nunes
-Anderson Trajano de Souza
-Andrielyssa Reis Santos
-Attila Lima Guerrera
-Bruno Gomes Lima
-Camila Forlin Cavalcanti
-Carolina Alves Branquinho
+Adriana de Andrade<br>
+Adriano Becco Nunes<br>
+Anderson Trajano de Souza<br>
+Andrielyssa Reis Santos<br>
+Attila Lima Guerrera<br>
+Bruno Gomes Lima<br>
+Camila Forlin Cavalcanti<br>
+Carolina Alves Branquinho<br>
 
   
