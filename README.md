@@ -7,7 +7,6 @@
 
 ### Conteudos
 - [Programas Requeridos](#Programas-Requeridos)
-- [Diretrizes para Firebase](#fDiretrizes-para-Firebase)
 - [BiBliotecas e Ferramentas Usadas](#lBiBliotecas-e-Ferramentas-Usadas)
 
 ### Diretrizes para Configurações
