@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004999249636",
+    "project_id": "icake-2502",
+    "storage_bucket": "icake-2502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004999249636:android:192421fcbbe156ff1e26f1",
+        "android_client_info": {
+          "package_name": "com.example.icake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004999249636-1jg8n3dqi3lt6if1qganpnu3hhujfgqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.icake",
+            "certificate_hash": "469f86a7d770008cb1831a0981d6a19fb919a35c"
+          }
+        },
+        {
+          "client_id": "1004999249636-h86b3ksaamaauvoqsfkusq54fu8ndlpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOdh44e9_pO84GG2z3dw-E0geZp_fuDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004999249636-h86b3ksaamaauvoqsfkusq54fu8ndlpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
