@@ -4,17 +4,12 @@
 <img alt="open collective badge" src="https://github.com/Anderson-Trajano/iCake/blob/master/app/src/main/res/drawable/logo.png" /><br>
 
 
+### Programas Requeridos<br>
+- Android-studio-2021.3.1.17;<br>
+- SDK com API Level 29;<br>
 
-### Conteudos
-- [Programas Requeridos](#Programas-Requeridos)
-- [BiBliotecas e Ferramentas Usadas](#lBiBliotecas-e-Ferramentas-Usadas)
-- 
-###Programas Requeridos
--Android-studio-2021.3.1.17;
--SDK com API Level 29;
-
-### Diretrizes para Configurações
-1. No menu <>Code, escolha a opção "Abrir com GitHub Desktop";
-2. Escolha a opção de editor "Android Studio";
-3. Realize as importações de bibliotecas e sincronizações solicitadas pela IDE;
+### Diretrizes para Configurações<br>
+1. No menu <>Code, escolha a opção "Abrir com GitHub Desktop";<br>
+2. Escolha a opção de editor "Android Studio";<br>
+3. Realize as importações de bibliotecas e sincronizações solicitadas pela IDE;<br>
   
