@@ -8,6 +8,10 @@
 ### Conteudos
 - [Programas Requeridos](#Programas-Requeridos)
 - [BiBliotecas e Ferramentas Usadas](#lBiBliotecas-e-Ferramentas-Usadas)
+- 
+###Programas Requeridos
+-Android-studio-2021.3.1.17;
+-SDK com API Level 29;
 
 ### Diretrizes para Configurações
 1. No menu <>Code, escolha a opção "Abrir com GitHub Desktop";
