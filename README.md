@@ -52,13 +52,4 @@ A opção sair, desliga o usuário;<br>
 -Ao escolher a opção "Configurações", pode-se selecionar uma imagem, cadastrar o nome de uma empresa, descrevê-la, tempo médio para disponibilizar o produto(sem tempo de entrega) e valor. Se cadastrar uma empresa e não colocar uma imagem no aplicativo da erro, uma falha ao importar o Picasso. Não foi possivel solucionar;<br>
 -Ao cadastrar varios produtos deve-se rolar a pagina para melhor visualização;<br>
 
-### Colaboradores
-Adriana de Andrade<br>
-Adriano Becco Nunes<br>
-Anderson Trajano de Souza<br>
-Andrielyssa Reis Santos<br>
-Attila Lima Guerrera<br>
-Bruno Gomes Lima<br>
-Camila Forlin Cavalcanti<br>
-Carolina Alves Branquinho<br>
   
